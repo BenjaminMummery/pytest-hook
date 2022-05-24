@@ -1,0 +1,10 @@
+---
+id: pytest
+name: pytest
+entry:
+language: python
+files: ^.py
+verbose3: true
+pass_filenames: true
+require_serial: true
+description: ''
